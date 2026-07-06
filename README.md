@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner.svg" width="100%" alt="YashAiDev Premium GitHub Banner" />
+  <img src="assets/github-banner-v3.svg" alt="Yasir Ahmed Ghauri Banner" />
 </p>
 
 <p align="center">
