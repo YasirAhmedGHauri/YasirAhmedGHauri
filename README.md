@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github-banner-v3.svg" alt="Yasir Ahmed Ghauri Banner" />
+  <img src="./assets/github-banner.svg" width="100%" alt="YashAiDev Premium GitHub Banner" />
 </p>
 
 <p align="center">
@@ -29,87 +29,88 @@
   <img src="https://komarev.com/ghpvc/?username=YasirAhmedGHauri&label=Profile%20Views&color=04c28f&style=for-the-badge" />
 </p>
 
----
-
 <p align="center">
-  <img src="./assets/animated-line.svg" width="100%" />
+  <img src="./assets/animated-line.svg" width="100%" alt="Animated divider" />
 </p>
 
-## ⚡ Premium Systems I Build
+## ⚡ Proof-Backed Builds
+
+<a href="https://cineroom-app.vercel.app">
+  <img src="./assets/cineroom-cover.png" width="100%" alt="CineRoom — Private Movie Night Web App" />
+</a>
+
+### 🎬 CineRoom — Private Movie Night Web App
+
+A cinematic watch-party platform built around a real problem: long-distance movie nights should not depend on the painful “3...2...1 press play” countdown.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript" />
+  <img src="https://img.shields.io/badge/Realtime_UX-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Private_Rooms-0D1117?style=flat-square" />
+</p>
+
+**Built for:** private rooms, host controls, invite flow, password access, synced experience, and a premium entertainment UI.
+
+---
+
+<a href="#">
+  <img src="./assets/ag-burger-cover.png" width="100%" alt="AG Burger — Restaurant Ordering Automation" />
+</a>
+
+### 🍔 AG Burger — Restaurant Ordering Automation
+
+A restaurant ordering automation concept designed to reduce manual order handling, guide customers through menu choices, support WhatsApp-style flows, and prepare orders for dashboard management.
+
+<p>
+  <img src="https://img.shields.io/badge/Automation-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Chat_Flow-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Restaurant_Tech-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/Order_Logic-0D1117?style=flat-square" />
+</p>
+
+**Built for:** website chatbot, WhatsApp order flow, menu browsing, multi-item orders, add-ons, editing, confirmation, and order dashboard logic.
+
+<p align="center">
+  <img src="./assets/animated-line.svg" width="100%" alt="Animated divider" />
+</p>
+
+## 🧠 Premium Systems I Build
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 AI Systems & Automation
+### AI Systems & Automation
 
-I design intelligent business systems that automate repetitive work, capture leads, qualify users, trigger follow-ups, and connect multiple workflows into one smooth operating system.
-
-**Examples:**
-
-- AI-style chat flows  
-- WhatsApp automation  
-- Lead qualification systems  
-- CRM workflows  
-- Booking automation  
-- Business dashboards  
+I design intelligent business systems that automate repetitive work, capture leads, qualify users, trigger follow-ups, and connect multiple workflows into one operating system.
 
 </td>
 <td width="50%">
 
-### 🚀 Premium Web Platforms
+### Premium Web Platforms
 
 I build high-conversion websites and full-stack platforms with polished UI, fast performance, clean architecture, and business-focused user journeys.
 
-**Examples:**
-
-- SaaS dashboards  
-- Portfolio websites  
-- Landing pages  
-- Admin panels  
-- Client portals  
-- Real-time apps  
-
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 
-### 📈 Lead Engines
+### Lead Engines
 
 I create systems that turn cold traffic into qualified opportunities using audits, scraping, enrichment, scoring, and outreach-ready exports.
-
-**Examples:**
-
-- Website audit tools  
-- Prospect discovery  
-- Lead scoring  
-- CSV export  
-- Client outreach systems  
-- Agency growth tools  
 
 </td>
 <td width="50%">
 
-### 🎯 Portfolio-Grade Products
+### Portfolio-Grade Products
 
-I do not just build mockups. I build real-world products that look premium, solve actual problems, and can be presented as strong case studies on GitHub, LinkedIn, and portfolios.
-
-**Focus:**
-
-- Real business problems  
-- Clean UI/UX  
-- Strong positioning  
-- Conversion flow  
-- Demo-ready builds  
-- Case-study storytelling  
+I build real-world products that look premium, solve actual problems, and can be presented as strong case studies on GitHub, LinkedIn, and portfolios.
 
 </td>
 </tr>
 </table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -128,104 +129,6 @@ I do not just build mockups. I build real-world products that look premium, solv
   <img src="https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma" />
 </p>
 
----
-
-<p align="center">
-  <img src="./assets/animated-line.svg" width="100%" />
-</p>
-
-## 🔥 Featured Build Systems
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 CineRoom — Private Movie Night Web App
-
-A frictionless private watch-party experience for people who want to watch movies together without the annoying “3...2...1 press play” problem.
-
-**Core idea:**  
-Create a private room, share access, join with password, and enjoy a synced virtual movie-night experience.
-
-**Built for:**
-
-- Private watch rooms  
-- Host-controlled experience  
-- Smooth joining flow  
-- Minimal dashboard  
-- Real-time product feel  
-
-`Next.js` `TypeScript` `Realtime UX` `Private Rooms`
-
-</td>
-<td width="50%">
-
-### 🍔 AG Burger — Restaurant Ordering Automation
-
-A fast-food ordering automation system designed to reduce manual work, guide customers, handle order changes, and make restaurant ordering smoother.
-
-**Core idea:**  
-Menu exploration → item selection → quantity → add-ons → order editing → confirmation.
-
-**Built for:**
-
-- Food businesses  
-- Chat-based ordering  
-- Rule-based automation  
-- Multi-item orders  
-- Customer support reduction  
-
-`Automation` `Chat Flow` `Restaurant Tech` `Order Logic`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧲 Xinr Lead Engine
-
-A lead-generation engine for finding, auditing, organizing, and exporting prospects for outreach campaigns.
-
-**Core idea:**  
-Find businesses, analyze their website, score opportunities, and prepare them for outreach.
-
-**Built for:**
-
-- Agencies  
-- Freelancers  
-- SaaS prospecting  
-- Outreach campaigns  
-- Lead databases  
-
-`Scraping` `Lead Gen` `Dashboard` `Automation`
-
-</td>
-<td width="50%">
-
-### 🎓 AI Summer Workshop System
-
-A structured beginner-to-advanced AI learning system for university students, designed for practical teaching and real classroom delivery.
-
-**Core idea:**  
-Teach AI from basics to prompting, LLMs, multimodal models, RAG, embeddings, agents, and real-world tools.
-
-**Built for:**
-
-- University students  
-- AI workshops  
-- Instructor preparation  
-- Practical examples  
-- Certificate roadmap  
-
-`AI Education` `LLMs` `Prompting` `RAG` `Agents`
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Performance
 
 <p align="center">
@@ -237,23 +140,11 @@ Teach AI from basics to prompting, LLMs, multimodal models, RAG, embeddings, age
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirAhmedGHauri&layout=compact&theme=github_dark&hide_border=true&title_color=04c28f&text_color=c9d1d9&bg_color=0D1117" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YasirAhmedGHauri&theme=matrix&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" width="100%" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasirAhmedGHauri&bg_color=0D1117&color=c9d1d9&line=04c28f&point=04c28f&area=true&hide_border=true&custom_title=YashAiDev%20Contribution%20Graph" width="100%" />
 </p>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -261,10 +152,26 @@ Teach AI from basics to prompting, LLMs, multimodal models, RAG, embeddings, age
   <img src="https://raw.githubusercontent.com/YasirAhmedGHauri/YasirAhmedGHauri/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
----
-
-## 🧩 Current Focus
+## 🚀 Current Focus
 
 ```txt
 Building premium full-stack products, AI-powered business systems,
 automation tools, and real-world portfolio projects that solve actual client problems.
+```
+
+<p align="center">
+  <a href="https://yashaidev.xinrlabs.com">
+    <img src="https://img.shields.io/badge/View%20Portfolio-04C28F?style=for-the-badge&logo=vercel&logoColor=050505" />
+  </a>
+  <a href="mailto:yasirahmedghauri10@gmail.com">
+    <img src="https://img.shields.io/badge/Book%20a%20Strategy%20Call-04C28F?style=for-the-badge&logo=gmail&logoColor=050505" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer-wave.svg" width="100%" alt="Footer wave" />
+</p>
+
+<p align="center">
+  <b>YashAiDev</b> — Building systems that look premium, work cleanly, and help businesses grow.
+</p>
