@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Yasir Ahmed Ghauri
 
 <p align="center">
-  <img src="assets/github-banner.svg" alt="Yasir Ahmed Ghauri Banner" />
+  <img src="assets/github-banner-v2.svg" alt="Yasir Ahmed Ghauri Banner" />
 </p>
 
 ### 🚀 Premium AI Systems Architect & Full-Stack Developer
